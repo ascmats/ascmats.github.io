@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Integrating into HA
-nav_order: 7
+title: YAML Code Installation
+parent: Manual Installation
+nav_order: 3
 ---
 
 # Instructions for configuring the TrampleTek mat into the Home Assistant UI
